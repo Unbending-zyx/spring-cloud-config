@@ -1,4 +1,4 @@
-server：
-port： 9998
-my：
-name： zyx
+server:
+  port: 9998
+my:
+  name: zyx

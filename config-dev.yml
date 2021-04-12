@@ -1,4 +1,5 @@
-server：
-  port： 9999
-my：
-  name： zyx
+server:
+  port: 9999
+my:
+  name: zyx
+  addr: 河南.....
