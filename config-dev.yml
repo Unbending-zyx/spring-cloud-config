@@ -1,5 +1,5 @@
-server:
-  port: 9999
 my:
   name: zyx
   addr: 河南.....
+config: 
+  info: 123456
